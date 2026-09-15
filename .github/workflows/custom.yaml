@@ -12,5 +12,5 @@ jobs:
 
     - name: using my custom action
       uses: HamzaShah1/custom-gihub-action-practice@main
-        with:
+      with:
           who-to-greet: "Hamza"
